@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1509287333 source:/home/glory/Documents/study/1028/exA/exA.cpp
+	"editor.h"
+
+1509280589 /home/glory/Documents/study/1028/exA/editor.h
+	<cassert>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<fstream>
+	<iostream>
+	<string>
+	<vector>
+
